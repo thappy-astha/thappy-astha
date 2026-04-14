@@ -1,4 +1,4 @@
-# Hi there, I'm Astha! 👋
+# Hi there, I'm Aastha! 👋
 
 ## 🚀 About Me
 I'm an aspiring **Full Stack Developer** currently in my final year of **MCA (Computer Applications)** with a unique background in **B.Tech (Tool Engineering)**. I love building end-to-end solutions and bringing ideas to life through code!
