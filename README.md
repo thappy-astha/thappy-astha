@@ -1,7 +1,10 @@
 # Hi there, I'm Aastha! 👋
 
 ## 🚀 About Me
-I'm an aspiring **Full Stack Developer** currently in my final year of **MCA (Computer Applications)** with a unique background in **B.Tech (Tool Engineering)**. I love building end-to-end solutions and bringing ideas to life through code!
+Java Backend Developer with internship experience building REST APIs, backend services, and database-driven applications using
+java, Spring Boot, and MYSQL. Skilled in designing scalable application architectures, implementing secure authentication flows,
+and working with modern development tools such as Git, Docker, and Postman. Interested in backend engineering, distributed
+systems, and full-stack web development with React.
 
 ## 🎓 Education
 - **MCA** in Computer Applications (Final Year)
@@ -15,10 +18,10 @@ I'm an aspiring **Full Stack Developer** currently in my final year of **MCA (Co
 
 ## 🛠️ Tech Stack
 <!-- Add your tech stack here, for example: -->
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, VS Code
+- **Frontend:** HTML, CSS, JavaScript, React , 
+- **Backend:** Spring Boot, REST APIs, Spring Security, JWT, Maven
+- **Database:** MySQL, Redis
+- **Tools:** Git, VS Code , intillij
 
 ## 📫 Let's Connect!
 <!-- Add your social links -->
